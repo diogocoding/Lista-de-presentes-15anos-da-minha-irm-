@@ -1,6 +1,6 @@
 
 
-#🎉Minha irmã completou 15 anos recentemente. Pensando numa forma de organizar a lista de presentes, meus pais falaram comigo para saber se eu poderia criar um site para essa lista, já que os sites já existentes eram todos pagos. Entrei na brincadeira e fiz, feliz da vida!🎉
+# 🎉Minha irmã completou 15 anos recentemente. Pensando numa forma de organizar a lista de presentes, meus pais falaram comigo para saber se eu poderia criar um site para essa lista, já que os sites já existentes eram todos pagos. Entrei na brincadeira e fiz, feliz da vida!🎉
 
 Meus pais queriam uma forma de organizar a lista de presentes sem usar plataformas pagas, então vi a oportunidade perfeita para colocar em prática meus estudos em Análise e Desenvolvimento de Sistemas.
 
