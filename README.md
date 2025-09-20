@@ -19,4 +19,10 @@ Ainda não vou liberar o link do projeto publicamente, pois a lista ainda está 
 
 Esse projeto me permitiu fortalecer habilidades em desenvolvimento web, gerenciamento de banco de dados NoSQL e resolução de problemas, transformando uma necessidade familiar em um case prático. Fico à disposição para trocar ideias sobre o projeto! 💻
 
+link da publicação + fotos no linkedin: https://www.linkedin.com/posts/diogo-nascimento-da-silva-diogocoding_desenvolvimentodesistemas-projetopessoal-activity-7375162734285516800-f-46?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEN-8jQBGNp4z7zso1VNs_u_OXSt8WxB6FI
+
 #desenvolvimentodesistemas #projetopessoal #desenvolvimentoweb #javascript #firebase #html #css
+
+![fotosdosite](https://i.postimg.cc/tJhxjPsG/sa.png)
+![fotosdosite](https://i.postimg.cc/VsMMnyDZ/Capturaro.png)
+![fotosdosite](https://i.postimg.cc/T18DFQYc/Capturar.png)
